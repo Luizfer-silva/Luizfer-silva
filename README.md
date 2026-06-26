@@ -29,6 +29,4 @@ Insígnias
 
 <b>Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/Luizfer-silva"><img src="https://github-readme-stats.vercel.app/api?username=Luizfer-silva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de Luizfer-silva" /></a>
-
 <a href="http://www.github.com/Luizfer-silva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luizfer-silva&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
