@@ -12,11 +12,11 @@ Atualmente estudando Java, Python, JavaScript, TypeScript, Git, banco de dados e
 
 Buscando minha primeira oportunidade de estágio em programação para aplicar meus conhecimentos e continuar aprendendo.
 
-* 🌍 Estou baseado no Brasil
-* ✉️ ️Pode entrar em contato comigo pelo [luiz.fernando.t.000@gmail.com](mailto:luiz.fernando.t.000@gmail.com)
-* 🧠 Atualmente estou aprendendo Java | Python | JavaScript | SQL | TypeScript | Git e desenvolvimento de aplicações.
-* 👥 Estou querendo colaborar no Projetos open source, projetos acadêmicos e aplicativos que ajudam no meu crescimento como desenvolvedor.
-* 💬 Pergunte-me sobre Gosto de tecnologia, programação e aprender novas ferramentos para criar soluções.
+* Estou baseado no Brasil
+* Pode entrar em contato comigo pelo [luiz.fernando.t.000@gmail.com](mailto:luiz.fernando.t.000@gmail.com)
+* Atualmente estou aprendendo Java | Python | JavaScript | SQL | TypeScript | Git e desenvolvimento de aplicações.
+* Estou querendo colaborar no Projetos open source, projetos acadêmicos e aplicativos que ajudam no meu crescimento como desenvolvedor.
+* Pergunte-me sobre Gosto de tecnologia, programação e aprender novas ferramentos para criar soluções.
 
 <p align="esquerda">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
